@@ -9,9 +9,9 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
+envs/
 venv/
 ENV/
-envs/
 build/
 develop-eggs/
 dist/
@@ -50,14 +50,9 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
-# Micromamba envs
-{project-name}/envs/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-
-# VSCode
-.vscode/
 
 # IDEs
 .idea/
